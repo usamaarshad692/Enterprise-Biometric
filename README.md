@@ -130,6 +130,7 @@ Production credentials, hardware integration keys, and sensitive configurations 
 
 ## 👨‍💻 Author
 
+Usama Arshad
 Full-Stack Developer  
 Systems Architect  
 
